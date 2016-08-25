@@ -1,10 +1,5 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
-
-echo "Depre"
-# fail fast
-set -e
-
 # debug
 # set -x
 
